@@ -1,0 +1,12 @@
+{
+  "name": "wpscholar/multiple-content-types",
+  "description": "Multiple Content Types is a WordPress plugin that makes it easy to select which content types (custom post types) you want to display on your main blog and archive pages.",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Micah Wood",
+      "email": "micah@wpscholar.com"
+    }
+  ]
+}
